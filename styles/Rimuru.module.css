@@ -1,0 +1,18 @@
+.pinkWrap {
+    align-items: center;
+    background-color: rgb(var(--color-accent));
+    display: flex;
+    gap: .8rem;
+    height: 100vh;
+    justify-content: center;
+    width: 100%;
+}
+
+.rimuruWet {
+    border-radius: 1.6rem;
+}
+
+.haniChart {
+    font-size: 2rem;
+    font-weight: 800;
+}
